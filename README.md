@@ -7,4 +7,4 @@
 
 ## Files
 - `dynamic_delta_hedge_calc.xlsx`: Spreadsheet containing dynamic delta hedging calculations, including Delta, share adjustments, and cumulative hedging costs with interest.
-- `output.png`: Plot.png
+- `output.png`: Plot
